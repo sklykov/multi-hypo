@@ -8,3 +8,5 @@ This project is developed with a purpose of performing more robust multiple obje
 for tracking.
 
 Because of previously following to the simplest version control, many of subprograms will be uploaded with enumeration (reflecting their local version). 
+
+The short explanation of hot to use program is described in the relevant * pdf file. 
