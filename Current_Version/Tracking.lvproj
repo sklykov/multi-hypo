@@ -285,7 +285,7 @@
 			<Item Name="Testing" Type="Folder">
 				<Property Name="NI.SortType" Type="Int">3</Property>
 				<Item Name="Postponed" Type="Folder"/>
-				<Item Name="Untitled 2.vi" Type="VI" URL="../Subprograms/Testing/Untitled 2.vi"/>
+				<Item Name="Correct_Losing_Origin_for_Splitting_Problem-1.vi" Type="VI" URL="../Subprograms/Testing/Correct_Losing_Origin_for_Splitting_Problem-1.vi"/>
 			</Item>
 		</Item>
 		<Item Name="Old_Main" Type="Folder"/>
