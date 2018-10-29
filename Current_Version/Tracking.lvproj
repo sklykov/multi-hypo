@@ -31,6 +31,7 @@
 					<Item Name="Get_(X_Y_dX_dY)_from_Array-2.vi" Type="VI" URL="../Subprograms/Current/Calculations/Get_(X_Y_dX_dY)_from_Array-2.vi"/>
 					<Item Name="Get_Amount_Displacement_in_Column-1.vi" Type="VI" URL="../Subprograms/Current/Calculations/Get_Amount_Displacement_in_Column-1.vi"/>
 					<Item Name="Get_Centers_Areas_Info_Particles-1.vi" Type="VI" URL="../Subprograms/Current/Calculations/Get_Centers_Areas_Info_Particles-1.vi"/>
+					<Item Name="Get_dR.vi" Type="VI" URL="../Subprograms/Current/Calculations/Get_dR.vi"/>
 					<Item Name="Get_dR_dX_dY-1.vi" Type="VI" URL="../Subprograms/Current/Calculations/Get_dR_dX_dY-1.vi"/>
 					<Item Name="Get_Indexes_Connect_Dots&amp;Min_ID-1.vi" Type="VI" URL="../Subprograms/Current/Calculations/Get_Indexes_Connect_Dots&amp;Min_ID-1.vi"/>
 					<Item Name="Get_Initial_Displacements-2.vi" Type="VI" URL="../Subprograms/Current/Calculations/Get_Initial_Displacements-2.vi"/>
@@ -286,6 +287,9 @@
 				<Property Name="NI.SortType" Type="Int">3</Property>
 				<Item Name="Postponed" Type="Folder"/>
 				<Item Name="Correct_Losing_Origin_for_Splitting_Problem-1.vi" Type="VI" URL="../Subprograms/Testing/Correct_Losing_Origin_for_Splitting_Problem-1.vi"/>
+				<Item Name="Correct_Mistake_with_101-111_Connection-1.vi" Type="VI" URL="../Subprograms/Testing/Correct_Mistake_with_101-111_Connection-1.vi"/>
+				<Item Name="Correct_Fake_Origins-1.vi" Type="VI" URL="../Subprograms/Testing/Correct_Fake_Origins-1.vi"/>
+				<Item Name="Make_Origin_Zero-1.vi" Type="VI" URL="../Subprograms/Testing/Make_Origin_Zero-1.vi"/>
 			</Item>
 		</Item>
 		<Item Name="Old_Main" Type="Folder"/>
