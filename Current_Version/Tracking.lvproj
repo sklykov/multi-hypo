@@ -21,6 +21,7 @@
 					<Item Name="Merge_Particle_Filter_Setups-1.vi" Type="VI" URL="../Subprograms/Current/Buttons/Merge_Particle_Filter_Setups-1.vi"/>
 					<Item Name="Merge_Localization_Settings_in_Cluster-1.vi" Type="VI" URL="../Subprograms/Current/Buttons/Merge_Localization_Settings_in_Cluster-1.vi"/>
 					<Item Name="Merge_Grouped_Tracks_Values-1.vi" Type="VI" URL="../Subprograms/Current/Buttons/Merge_Grouped_Tracks_Values-1.vi"/>
+					<Item Name="Read_INI_File-Image_Proc.vi" Type="VI" URL="../Subprograms/Current/Buttons/Read_INI_File-Image_Proc.vi"/>
 				</Item>
 				<Item Name="Calculations" Type="Folder">
 					<Item Name="Calculate_Non-zero_Displac-s_in_Matrix-1.vi" Type="VI" URL="../Subprograms/Current/Calculations/Calculate_Non-zero_Displac-s_in_Matrix-1.vi"/>
@@ -294,6 +295,7 @@
 		</Item>
 		<Item Name="Old_Main" Type="Folder"/>
 		<Item Name="MainPr(Calculation)-40.vi" Type="VI" URL="../MainPr(Calculation)-40.vi"/>
+		<Item Name="MainPr(Calculation)-41.vi" Type="VI" URL="../MainPr(Calculation)-41.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="BuildHelpPath.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/BuildHelpPath.vi"/>
@@ -371,6 +373,12 @@
 				<Item Name="Dflt Data Dir.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Dflt Data Dir.vi"/>
 				<Item Name="General Error Handler Core CORE.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/General Error Handler Core CORE.vi"/>
 				<Item Name="LVRectTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVRectTypeDef.ctl"/>
+				<Item Name="8.6CompatibleGlobalVar.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/config.llb/8.6CompatibleGlobalVar.vi"/>
+				<Item Name="NI_LVConfig.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/config.llb/NI_LVConfig.lvlib"/>
+				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Cluster From Error Code.vi"/>
+				<Item Name="NI_PackedLibraryUtility.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/LVLibp/NI_PackedLibraryUtility.lvlib"/>
+				<Item Name="NI_FileType.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/lvfile.llb/NI_FileType.lvlib"/>
+				<Item Name="Check if File or Folder Exists.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/libraryn.llb/Check if File or Folder Exists.vi"/>
 			</Item>
 			<Item Name="lvanlys.dll" Type="Document" URL="/&lt;resource&gt;/lvanlys.dll"/>
 			<Item Name="nivision.dll" Type="Document" URL="nivision.dll">
