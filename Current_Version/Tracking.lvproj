@@ -22,6 +22,7 @@
 					<Item Name="Merge_Localization_Settings_in_Cluster-1.vi" Type="VI" URL="../Subprograms/Current/Buttons/Merge_Localization_Settings_in_Cluster-1.vi"/>
 					<Item Name="Merge_Grouped_Tracks_Values-1.vi" Type="VI" URL="../Subprograms/Current/Buttons/Merge_Grouped_Tracks_Values-1.vi"/>
 					<Item Name="Read_INI_File-Image_Proc.vi" Type="VI" URL="../Subprograms/Current/Buttons/Read_INI_File-Image_Proc.vi"/>
+					<Item Name="Read_INI_File-Tracking_Val.vi" Type="VI" URL="../Subprograms/Current/Buttons/Read_INI_File-Tracking_Val.vi"/>
 				</Item>
 				<Item Name="Calculations" Type="Folder">
 					<Item Name="Calculate_Non-zero_Displac-s_in_Matrix-1.vi" Type="VI" URL="../Subprograms/Current/Calculations/Calculate_Non-zero_Displac-s_in_Matrix-1.vi"/>
@@ -293,8 +294,9 @@
 				<Item Name="Make_Origin_Zero-1.vi" Type="VI" URL="../Subprograms/Testing/Make_Origin_Zero-1.vi"/>
 			</Item>
 		</Item>
-		<Item Name="Old_Main" Type="Folder"/>
-		<Item Name="MainPr(Calculation)-40.vi" Type="VI" URL="../MainPr(Calculation)-40.vi"/>
+		<Item Name="Old_Main" Type="Folder">
+			<Item Name="MainPr(Calculation)-40.vi" Type="VI" URL="../MainPr(Calculation)-40.vi"/>
+		</Item>
 		<Item Name="MainPr(Calculation)-41.vi" Type="VI" URL="../MainPr(Calculation)-41.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
