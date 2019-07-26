@@ -1,13 +1,16 @@
-# Compiled source #
+# Sources #
 ###################
 *.com
 *.class
 *.dll
 *.exe
 *.aliases
+*.doc
+*.docx
 
-# OS generated files #
+# OS folders #
 ######################
 .DS_Store
 .DS_Store?
-._* 
+._*
+.Docs 
